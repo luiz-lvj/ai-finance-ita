@@ -2,7 +2,7 @@
 Material para o projeto de Iniciação Científica - Finanças, Machine Learning
 
 # DESCRIÇÃO DOS ARQUIVOS
-- Projeto_AM_ITA.pdf
+- Projeto_AM_ITA.pdf/
   Descrição das variáveis e técnicas de aprendizado de máquina utilizadas para predição das ações.
   
 - Projeto_IC_v1.pdf
